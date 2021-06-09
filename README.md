@@ -1,1 +1,0 @@
-# proyectoListaJornadas_front
